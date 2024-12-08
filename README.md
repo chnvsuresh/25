@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chukkanagavenkatasuresh@gmail.com**
 
-- 📱 You can reach me for inquiries or further information at **+91-8885697375**.
+- 📱 You can reach me for inquiries or further information at **+91-8885697375**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
