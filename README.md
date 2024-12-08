@@ -24,8 +24,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40" style="margin
 </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;" />
