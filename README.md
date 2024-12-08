@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Projects**
 
-- 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio]
+- 👨‍💻 All of my projects are available at []
 
 - 💬 Ask me about **Books and Clouds**
 
