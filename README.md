@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Projects**
 
-- 👨‍💻 All of my projects are available at []
-
 - 💬 Ask me about **Books and Clouds**
 
 - 📫 How to reach me **chukkanagavenkatasuresh@gmail.com**
