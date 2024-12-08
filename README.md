@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep2412&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep2412" /> </p>
 
-- 🔭 I’m currently working as **SDE 1**
+- 🔭 I’m currently working as **Senior Consultant**
 
 - 🌱 I’m currently learning **SpringBoot, Azure, Kafka, Reactjs**
 
-- 🤝 My area of Expertise **Spring, Java , HTML & CSS**
+- 🤝 My area of Expertise **Devops & Clouds- AWS & Azure**
 
-- 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Porjects**
+- 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Projects**
 
 - 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio]
 
 - 💬 Ask me about **Books and SDE**
 
-- 📫 How to reach me **sandeepkr241998@gmail.com**
+- 📫 How to reach me **chukkanagavenkatasuresh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
