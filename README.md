@@ -1,5 +1,5 @@
 <br>
-<img alt="Coder GIF" height=400 width=800 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=300 width=900 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <h1 align="center">Hi 👋, I'm Chukka Suresh</h1>
 <h3 align="center">A Passionate Devops & Cloud</h3>
