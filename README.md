@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sandeep2412.github.io/Portfolio]
 
-- 💬 Ask me about **Books and SDE**
+- 💬 Ask me about **Books and Clouds**
 
 - 📫 How to reach me **chukkanagavenkatasuresh@gmail.com**
 
