@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Senior Consultant**
 
-- 🌱 I’m currently learning **SpringBoot, Azure, Kafka, Reactjs**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 🤝 My area of Expertise **DevOps and cloud platforms like AWS and Azure**
 
