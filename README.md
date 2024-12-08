@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Azure, Kafka, Reactjs**
 
-- 🤝 My area of Expertise **Devops & Clouds- AWS & Azure**
+- 🤝 My area of Expertise **My area of Expertise in DevOps and cloud platforms like AWS and Azure**
 
 - 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Projects**
 
