@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/95dfa268-3a03-4ad4-8ed4-f2f8f747c79a)<br> <img alt="Coder GIF" height=300 width=1200 src="" /> <br>
 <p align="left"> <img src="https://files.oaiusercontent.com/file-NB7WRqFefVtUWuUEXeNcCH?se=2024-12-10T14%3A49%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D5ce9d7ed-61e0-483f-a10f-855da0efc4bd.webp&sig=nX5d24vQTUQSH3GwGL38NRKbIMFCtzcLszF/1Icumgg%3D" alt="suresh2509" /> </p>
+
 <h1 align="center">Hi 👋, I'm Chukka Suresh</h1>
 <h3 align="center">A Passionate Devops & Cloud</h3>
 
