@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Books and Clouds**
 
+- ⚡ Fun fact **I am Funny**
+
 - 📫 How to reach me **chukkanagavenkatasuresh@gmail.com**
 
 - 📱 You can reach me for inquiries or further information at **+91-8885697375**
